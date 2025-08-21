@@ -5,6 +5,6 @@
 
 ## 🎖 Hackathon Achievements
 
-[![ETHGlobal NY 2025 Hacker POAP][(https://collectors.poap.xyz/reservation/chris.aney@gmail.com/drop/197229?tab=collections)](https://app.poap.xyz/token/197229)
+[![ETHGlobal NY 2025 Hacker POAP][https://collectors.poap.xyz/mint/mun5au/success](https://app.poap.xyz/token/197229)
 
 *Proof of Attendance at ETHGlobal New York 2025 Hackathon*
