@@ -5,6 +5,7 @@
 
 ## 🎖 Hackathon Achievements
 
-[![ETHGlobal NY 2025 Hacker POAP][https://collectors.poap.xyz/mint/mun5au/success](https://app.poap.xyz/token/197229)
+[![ETHGlobal NY 2025 Hacker POAP](https://poap.gallery/static/media/poap-logo.9e1bff3e.png)](https://poap.gallery/drops/197229)
 
 *Proof of Attendance at ETHGlobal New York 2025 Hackathon*
+
